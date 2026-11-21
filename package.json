@@ -1,0 +1,20 @@
+{
+  "name": "grandtheftcrew-auto",
+  "version": "1.0.0",
+  "description": "Automated farming bot, task claimer, and high-score booster for Grand Theft Crew ($GRAND) Solana Airdrop",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "loop": "node index.js --loop"
+  },
+  "keywords": [
+    "airdrop",
+    "solana",
+    "grand-theft-crew",
+    "bot",
+    "automation"
+  ],
+  "author": "",
+  "license": "MIT"
+}

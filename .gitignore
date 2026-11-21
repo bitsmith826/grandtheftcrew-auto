@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Local Account Credentials, Tokens & Wallets (CRITICAL OPSEC - NEVER COMMIT)
+accounts.json
+accounts.json.tmp
+wallets.txt
+.env
+*.key
+*.pem
+
+# Local Decompilation Dumps & Internal Scrapers
+client_dump/
+
+# Temporary Diagnostic & Scratch Scripts
+scan_anticheat.mjs
+boost_*.mjs
+debug_*.mjs
+test_*.mjs
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

@@ -1,0 +1,14 @@
+# ==============================================================================
+# Grand Theft Crew ($GRAND) - Solana Public Wallet Addresses
+# ==============================================================================
+#
+# IMPORTANT SECURITY RULES:
+# 1. ONLY paste SOLANA PUBLIC WALLET ADDRESSES (Base58 strings, 32-44 characters).
+# 2. NEVER paste Private Keys, Mnemonic Seed Phrases, or Passwords!
+# 3. Line 1 will automatically be assigned as Master Referral Account.
+# 4. Lines 2..N will register as referee accounts under Line 1.
+#
+# Example format:
+# 7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU
+# 9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM
+# 3bB8yQ1Y5bM8z7tQ8V9kL4mJ3pX2wR1z6yT8vN5sD4fG
