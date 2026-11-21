@@ -57,8 +57,8 @@ function humanShootAction(s) {
     return { type: 2, x: 0, y: 0 };
   }
 
-  // Natural human imperfection: ~1-2 stray shots per game to break 100% accuracy bot signature
-  if (s.ammo > 3 && Math.random() < 0.012) {
+  // Natural human imperfection: ~2-3 stray shots per game to break 100% accuracy bot signature
+  if (s.ammo > 3 && Math.random() < 0.035) {
     const missX = 480 + Math.floor((Math.random() - 0.5) * 300);
     const missY = 40 + Math.floor(Math.random() * 40); // Top wall/sky
     if (!wouldHitGhost(s, missX, missY) && !wouldHitCiv(s, missX, missY)) {
